@@ -1,6 +1,6 @@
 {
   "name": "jsenny",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JS adapter for Jenny",
   "main": "index.js",
   "scripts": {

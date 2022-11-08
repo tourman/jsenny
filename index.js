@@ -1,3 +1,3 @@
-export default function jsenny() {
+module.exports = function jsenny() {
   console.log('jsenny: noop')
 }
